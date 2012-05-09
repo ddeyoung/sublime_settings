@@ -1,17 +1,18 @@
 {
-  "color_scheme": "Packages/Color Scheme - Default/Resesif.tmTheme",
-  // "color_scheme": "Packages/Color Scheme - Default/Github.tmTheme",
-  "font_size": 10,
-  "font_options": [
-    "no_aliasing" 
-  ],
-  "tab_size": 2,
-  "detect_indentation": false,
-  "translate_tabs_to_spaces": true,
-  "highlight_line": true,
-  "line_padding_top": 3,
-  "line_padding_bottom": 2,
-  "ensure_newline_at_eof_on_save": false,
-  "ignored_packages": []
-
+	"color_scheme": "Packages/Color Scheme - Default/Resesif.tmTheme",
+	"detect_indentation": false,
+	"ensure_newline_at_eof_on_save": false,
+	"font_options":
+	[
+		"no_aliasing"
+	],
+	"font_size": 10.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 3,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
 }
