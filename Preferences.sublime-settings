@@ -13,6 +13,6 @@
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 3,
-	"tab_size": 2,
+	// "tab_size": 2,
 	"translate_tabs_to_spaces": true
 }
